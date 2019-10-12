@@ -1,0 +1,11 @@
+"BIND_ITEM_NOT_DELETE";
+"Lélekhez kötött tárgyat nem tudsz törölni!";
+
+"ITEM_DESTROY_SUCCES";
+"[%s] nevű tárgy sikeresen törölve!";
+
+"THIS_ITEM_NOT_SELL";
+"Ez a tárgy nem adható el!";
+
+"ITEM_SELL_SUCCES";
+"[%s] nevű tárgy sikeresen eladva!";
